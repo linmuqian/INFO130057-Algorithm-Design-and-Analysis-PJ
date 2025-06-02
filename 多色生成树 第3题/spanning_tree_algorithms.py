@@ -1,9 +1,5 @@
 # This is to show the algorithms of question 3 
 # Also, 'test_spanning_tree.ipynb' is to test these algorithms
-'''
-
-'''
-
 
 # UnionFind class 不相交集
 class UnionFind:
