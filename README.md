@@ -1,4 +1,5 @@
-This showcases the course project of Algorithm Design and Analysis for the 2025 Spring Semester at Fudan University. 
+This is the Project of INFO130057.01 Algorithm Design and Analysis for the 2025 Spring Semester of Fudan University. 
+
 Each needs to complete sort algorithm, then choose 2 questions from 20 questions. I choose the question 3 and the question 17.
 
 Question 3 (Multicolored Spanning Tree):
